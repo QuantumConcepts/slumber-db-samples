@@ -1,0 +1,15 @@
+{
+  "name": "slumber-db-samples",
+  "private": true,
+  "version": "0.0.2-beta",
+  "description": "Shows how to configure and interact with slumberDb.",
+  "license": "AGPL-1.0",
+  "repository": {
+    "url": "https://github.com/QuantumConcepts/slumber-db-samples"
+  },
+  "author": "Quantum Concepts <josh@quantumconcept.io> (http://github.com/QuantumConcepts)",
+  "main": "simple_server.js",
+  "dependencies": {
+    "slumber-db": "0.0.2-beta"
+  }
+}
