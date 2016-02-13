@@ -24,4 +24,7 @@ server.run(() => {
     console.log();
     console.log("DELETE to the following URL to delete an entity.");
     console.log("\t%s/{entity_id}", sampleUrl);
+    console.log();
+    console.log();
+    console.log("To stop the server, press <Ctrl> + C.");
 });
